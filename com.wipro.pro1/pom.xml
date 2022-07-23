@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.wipro.test</groupId>
-	<artifactId>com.wipro.test</artifactId>
+	<artifactId>com.wipro.pro1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>com.wipro.test</name>
+	<name>com.wipro.pro1</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
